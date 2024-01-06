@@ -3,21 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - EndZone
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Pickups
+  - 
   - Water
   - UI
-  - Player
-  - LocalPlayer
-  - HitBox
-  - Projectile
-  - LocalWeapons
-  - Border
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
